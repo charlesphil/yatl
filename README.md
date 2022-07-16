@@ -1,2 +1,2 @@
-# yatdl
+# yatl
 Yet another todo list
